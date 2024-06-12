@@ -18,6 +18,6 @@ Mi nombre es Valentino Grosso. Soy estudiante de Ingeniería de Sistemas en la U
 
 Me podes encontrar en mis otras redes sociales como:
 
-Intagram: grossovalentino
+Intagram: https://www.instagram.com/gggrossovalentino/
 
-Facebook: grossovalentino
+Facebook: https://www.facebook.com/valentino.grosso.777
