@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Mi nombre es Valentino Grosso. Soy estudiante de Ingeniería de Sistemas en la Universidad Tecnológica Nacional, Facultad Regional Córdoba (UTNfrc), actualmente estoy realizando un curso de programación Full Stack. Poseo el título de bachiller en Economía y Administración, lo cual me proporcionó una sólida base en gestión y administración. Mi formación académica se complementa con habilidades en el desarrollo de aplicaciones web, adquiridas a través del curso Full Stack, donde manejo lenguajes como HTML, CSS, JavaScript y Python. En el futuro, me gustaría especializarme en Inteligencia Artificial, con el objetivo de contribuir al desarrollo de tecnologías innovadoras que tengan un impacto positivo en la sociedad. Estoy comprometido con el aprendizaje continuo y abierto a participar en proyectos que me permitan aplicar mis conocimientos y seguir creciendo profesionalmente.
+
+Me podes encontrar en mis otras redes sociales como:
+
+Intagram: grossovalentino
+
+Facebook: grossovalentino
